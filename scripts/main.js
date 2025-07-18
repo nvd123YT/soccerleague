@@ -76,11 +76,11 @@ for (i = 0; i < NUM_TEAMS; i ++) {
     clubStandings [i] = i;
 }
 
-let teamNames = ["Brighton", "Bayer 04 Leverkusen", "Real Madrid", "PSG",
-                "Inter Milan", "PSV", "Sporting CP", "Sturm Graz",
-                "Celtic", "Red Star Belgrade", "Club Brugge", "Galatasaray",
-                "FC Copenhagen", "Olympiacos", "Molde FK", "Sparta Praha",
-                "Shakthar Donetsk", "Qarabag FK", "Dinamo Zagreb", "Young Boys"];
+let teamNames = ["Liverpool", "FC Bayern Munchen", "FC Barcelona", "PSG",
+                "Napoli", "PSV", "Sporting CP", "Sturm Graz",
+                "Celtic", "Pafos FC", "Union Saint-Gilloise", "Galatasaray",
+                "FC Kobenhavn", "Olympiacos", "Bodo/Glimt", "Slavia Praha",
+                "Lech Poznan", "Malmo FF", "Rijeka", "Basel"];
 
 clubs = generateClubs (clubs);
 fixtures = generateFixtures (fixtures);
